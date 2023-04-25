@@ -1,6 +1,6 @@
 # 🏗️ Module 10 Mini-Project: Create Tests and Classes for List Generator
 
-In this mini-project, you will work with a group to create classes and tests for an app that generates an HTML page with a user's task list.
+In this mini-project, you will create classes and tests for an app that generates an HTML page with a user's task list.
 
 * As a developer, I want to be able to define classes for different pieces of an application.
 
